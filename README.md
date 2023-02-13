@@ -1,4 +1,4 @@
-# ValentineDayScript
+# Valentine Script
 I'm has been build Simple Valentine Day Html Script, free and use for learn.
 
 # Demo Site
@@ -9,8 +9,7 @@ I'm has been build Simple Valentine Day Html Script, free and use for learn.
  
 # Let's connect with me!
 <p>
-    <a href="https://dedy-tobing.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-https://dedy-tobing.vercel.app/-blue?" /></a>
-    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
-    <a href="https://facebook.com/dedy.lumbantobing.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
-    <a href="https://wa.me/message/O5ULYVABJCQ7L1" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+    <a href="https://dedy-tobing.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-Dedy Tobing-blue?" /></a>
+    <a href="https://facebook.com/dedy.lumbantobing.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-デディ-blue?" /></a>
+    <a href="https://wa.me/message/O5ULYVABJCQ7L1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-Dedy Tobing-blue?" /></a>
 </p>
